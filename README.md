@@ -11,6 +11,12 @@
   
   <!-- Social Network -->
 <h1 align="center">
+ <a href ="https://twitter.com/rip2_myself">
+   <img align = "center"
+        alt="twitter"
+        width="22px"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
 <a href="https://www.instagram.com/rip2_myweed/">
   <img align="center" 
        alt="Rocio's Instagram" 
