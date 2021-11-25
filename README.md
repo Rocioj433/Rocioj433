@@ -1,17 +1,13 @@
-- 👋 Hi, I’m @Rocio and this is my repository
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning front end programming
-- 📫 How to reach me via mail rocioj433@gmail.com
-
 <!-- Title -->
-<h1 align="center">Hello World 
+<h1 align="center">Hello World, welcome to my repository! :)
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h2></h1>
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
+<p align="center">I would like to change the World but they won't give me the source code</p>
+<p align="center">I am currently learning front end programming with react</p>
   
   <!-- Social Network -->
 <h1 align="center">
