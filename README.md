@@ -7,7 +7,7 @@
 
 <!-- Quote -->
 <p align="center">I would like to change the World but they won't give me the source code</p>
-<p align="center">I am currently learning front end programming with react</p>
+<!-- <p align="center">I am currently learning front end programming with react</p> -->
   
   <!-- Social Network -->
 <h1 align="center">
