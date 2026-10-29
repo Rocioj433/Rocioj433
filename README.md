@@ -1,80 +1,38 @@
-<!-- Title -->
-<h1 align="center">Hello World, welcome to my repository! :)
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
-  </h2></h1>
+# Rocío Sánchez Suárez
 
+**Desarrolladora Full Stack** — React.js · Go · PHP/Symfony · Python (FastAPI)
 
-<!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code</p>
-<!-- <p align="center">I am currently learning front end programming with react</p> -->
-  
-  <!-- Social Network -->
-<h1 align="center">
- <a href ="https://twitter.com/rip2_myself">
-   <img align = "center"
-        alt="twitter"
-        width="22px"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-<a href="https://www.instagram.com/rip2_myweed/">
-  <img align="center" 
-       alt="Rocio's Instagram" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-  </a>
-  
-<a href="https://www.linkedin.com/in/rocio-jazmin-sanchez-suarez-22ab39195/">
-  <img align="center" 
-       alt="Linkdein" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-  </a>
-  
-<a href="mailto:rocioj433@gmail.com">
-  <img align="center" 
-       alt="Gmail" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
-  </a>
-</h1>
+3 años construyendo una plataforma web regional para 3M, presente en LATAM y Europa.
+Cursando la Tecnicatura en Análisis de Sistemas (IFTS). Disponible para roles híbridos en CABA o remoto.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rocioj433.github.io-1f6feb?style=flat-square&logo=githubpages&logoColor=white)](https://rocioj433.github.io/portfolio-2026/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rocio--sanchez--suarez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocio-sanchez-suarez)
+[![Email](https://img.shields.io/badge/Email-rocioj433@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rocioj433@gmail.com)
 
+---
 
+### Proyectos
 
-<!-- Background -->
+| Proyecto | Qué resuelve | Stack |
+|---|---|---|
+| **[Portfolio](https://rocioj433.github.io/portfolio-2026/)** | Sitio bilingüe (ES/EN) con i18n y temas propios, sin librerías de UI ni CDNs externos | React 19 · TypeScript · Vite · Vitest |
+| **[Transcriptor-IA](https://github.com/Rocioj433/Transcriptor-IA)** | Transcripción local de audio con diarización de hablantes y export a 8 formatos | FastAPI · Faster-Whisper · PyAnnote · pytest |
+| **[Control de Gastos](https://github.com/Rocioj433/Project-Control-Gastos)** | Convierte resúmenes de tarjeta en PDF en gastos categorizados, con reportes y export a Excel/Sheets | FastAPI · SQLAlchemy · pdfplumber · SQLite |
 
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+### Stack
 
-&nbsp;
+**Frontend** · `React.js` `JavaScript` `TypeScript` `React Native` `HTML5` `CSS3` `Material UI`
+**Backend** · `Go` `PHP` `Symfony` `Python` `FastAPI` `REST APIs` `SQLAlchemy`
+**Datos** · `MySQL` `SQL` `SQLite`
+**Infra y herramientas** · `Docker` `Git` `GitLab` `GitHub Actions` `AWS S3`
+**Calidad** · `pytest` `Vitest` `Scrum`
 
-<!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+### Aprendiendo ahora
 
-  </p>
-  
-&nbsp;  
+- **TypeScript en serio** — tipos estrictos, genéricos y tipado de respuestas de API (aplicado en el portfolio)
+- **Testing automatizado** — pytest con 116 tests en el transcriptor, Vitest en el portfolio
+- **IA aplicada** — diarización, transcripción y categorización con LLM, con degradación elegante cuando el modelo falla
 
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/></code>
-  </p>
-&nbsp;
+---
 
-
-<!---
-Rocioj433/Rocioj433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<sub>Abierta a roles Full Stack y Frontend · Buenos Aires, Argentina</sub>
